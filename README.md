@@ -3,9 +3,9 @@
 
 
 #MATLAB PROJECTS
-     # 1. Computer Vision 
-     # 2. BCI Decoder
-    #  3. 
+     #1. Computer Vision 
+     #2. BCI Decoder
+    #3. 
       #4. 
      # 5. 
 #PYTHON PROJECTS 
